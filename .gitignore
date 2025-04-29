@@ -9,7 +9,6 @@ __pycache__/
 /xss_tests/
 /sqli_tests/
 /cookie_tests/
-*.md
 *.json
 *.html
 
