@@ -26,6 +26,7 @@ Welcome to the **WordPress Security Testing Suite**, a robust collection of Pyth
 9.  [Contributing](#contributing)
 10. [License](#license)
 11. [Contact](#contact)
+12. [Support & Donations](#support--donations)
 
 ---
 
@@ -644,4 +645,28 @@ For questions, issues, or feedback, please contact:
 
 ---
 
-Secure your WordPress site today!Run the suite, fix vulnerabilities, and stay safe from attackers. Happy testing! 🚀
+## Support & Donations
+
+If you find this project helpful and would like to support its development, you can contribute through the following methods:
+
+### Cryptocurrency
+
+- **USDT (BEP20):** 0x871e8d1e2149d6fe5278b379d2e2ec8beebdddeb
+
+  ![USDT BEP20 QR Code](assests/USDT-BEP20.jpg)
+
+### Mobile Payment
+
+- **EasyPaisa:** 03155501381
+
+### Bank Transfer
+
+- **Account Number:** PK25BAHL2007009500486301
+- **SWIFT Code:** BAHLPKKA
+- **Bank:** BANK AL HABIB
+
+Your support helps maintain and improve this project. Thank you! 🙏
+
+---
+
+Secure your WordPress site today! Run the suite, fix vulnerabilities, and stay safe from attackers. Happy testing! 🚀
