@@ -3,7 +3,7 @@
 Website Security Scanner
 
 A tool that uses OWASP ZAP to scan websites for vulnerabilities and then
-uses AI models (Google Gemini, Anthropic Claude, or OpenAI) to analyze
+uses AI models (Anthropic Claude) to analyze
 the results and suggest improvements.
 """
 

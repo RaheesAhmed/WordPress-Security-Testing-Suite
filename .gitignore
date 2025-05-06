@@ -5,14 +5,17 @@ __pycache__/
 .env
 
 # Security test results and reports
+/security_suite_results/
 /csrf_tests/
 /xss_tests/
 /sqli_tests/
 /cookie_tests/
+/security_tests/
 /cookie_results/
 /csrf_results/
 *.json
 *.html
+*.md
 
 # Docker related
 .docker/
